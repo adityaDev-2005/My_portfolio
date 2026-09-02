@@ -1,4 +1,4 @@
-# Aditya Mishra — Portfolio
+# Aditya Asutosh Mishra — Portfolio
 
 A fully static portfolio site built with React + Vite. No backend, no database,
 no server required to view it once deployed — just static files.
