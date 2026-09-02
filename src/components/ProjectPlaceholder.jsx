@@ -86,9 +86,6 @@ export default function ProjectPlaceholder({ title, category }) {
       <g transform="translate(168, 60)" stroke="#DC2626" strokeWidth="1.4" fill="none">
         <g transform="scale(1.6)">{icon}</g>
       </g>
-      <text x="200" y="128" textAnchor="middle" fill="#6b6b6b" fontSize="10" fontFamily="'Space Grotesk', sans-serif" letterSpacing="1">
-        PREVIEW PENDING
-      </text>
     </svg>
   );
 }

@@ -78,7 +78,7 @@ const projects = [
       "A geospatial tool that generates high-resolution satellite images from a location name or GPS coordinates.",
     image: "",
     technologies: ["Python", "GeoPandas", "Shapely", "Contextily", "Matplotlib"],
-    githubUrl: "https://github.com/ToxicKoder/Satellite-image-generator",
+    githubUrl: "https://github.com/adityaDev-2005/Satellite-image-generator-using-geographical-libraries-of-python",
     demoUrl: "",
     details: {
       problem:
@@ -96,7 +96,7 @@ const projects = [
       lessonsLearned:
         "Identified extension potential for obstacle detection on generated imagery, applicable to autonomous vehicle and drone navigation pipelines.",
       links: {
-        github: "https://github.com/ToxicKoder/Satellite-image-generator",
+        github: "https://github.com/adityaDev-2005/Satellite-image-generator-using-geographical-libraries-of-python",
         demo: "",
         documentation: "",
         video: "",
@@ -111,7 +111,7 @@ const projects = [
       "A real-time driver drowsiness detection system using facial landmark detection and the Eye Aspect Ratio (EAR) algorithm.",
     image: "",
     technologies: ["Python", "OpenCV", "dlib", "Machine Learning"],
-    githubUrl: "https://github.com/ToxicKoder/Drowsiness-Detection-System",
+    githubUrl: "https://github.com/adityaDev-2005/Drowsiness-Detection-using-OpenCV",
     demoUrl: "",
     details: {
       problem: "Detecting driver drowsiness in real time to help prevent accidents.",
@@ -128,7 +128,7 @@ const projects = [
         "Tuning the EAR threshold to prioritize avoiding false alarms, which came at the cost of lower recall — flagged as an area for future iteration.",
       lessonsLearned: "Placeholder — add what you learned from this project.",
       links: {
-        github: "https://github.com/ToxicKoder/Drowsiness-Detection-System",
+        github: "https://github.com/adityaDev-2005/Drowsiness-Detection-using-OpenCV",
         demo: "",
         documentation: "",
         video: "",
