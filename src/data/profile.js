@@ -13,7 +13,7 @@ const profile = {
     github: "https://github.com/adityaDev-2005",
     linkedin: "https://www.linkedin.com/in/aditya-asutosh-mishra-1654b2331/",
     email: "adityaasutoshmishra2005@gmail.com",
-    resume: "/resume.pdf",
+    resume: `${import.meta.env.BASE_URL}resume.pdf`,
   },
 
   about: {
